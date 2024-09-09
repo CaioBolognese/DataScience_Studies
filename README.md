@@ -1,1 +1,2 @@
-# DataScienceProjects
+# DataScience_Studies
+Aqui estão os códigos propostos como exércicios durante meu aprendizado de forma autodidata, os conteúdos aqui presentes são tópicos iniciais de várias ferramentas como Jupyter Notebook, Python , SQL, entre outras...
